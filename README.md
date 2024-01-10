@@ -22,3 +22,4 @@ The frontend part of application will be written using Console Application. Prog
 
 ### Hardware
 Arduino uno will be used as a server. Programing language - C++
+
