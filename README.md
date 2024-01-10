@@ -1,7 +1,6 @@
 # csdt2324ki49svyrydiukdv23
 # CSAD
 
-
 ## Info
 ### About repository
 This repository created for course "Computer systems automated design" of Lviv Polytechnic National University
@@ -23,3 +22,4 @@ The frontend part of application will be written using Console Application. Prog
 
 ### Hardware
 Arduino uno will be used as a server. Programing language - C++
+
